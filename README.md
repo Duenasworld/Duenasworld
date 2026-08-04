@@ -35,7 +35,7 @@ I'm particularly interested in bridging the gap between **traditional enterprise
 
 ---
 
-## 🚀 Current Project
+## 🚀 Current Project (see https://github.com/Duenasworld/Patricias_Vault)
 
 I'm currently developing **Patricia's Password Manager/Vault**, a personal project designed to strengthen my expertise in modern software development by building a secure, real-world application from the ground up.
 
