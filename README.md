@@ -1,49 +1,69 @@
+# Hi, I'm Patricia 👋
 
-<!--
-**Duenasworld/Duenasworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer & Technical Lead** with 14 years of experience building, modernizing, and maintaining business-critical enterprise applications in regulated, high-availability environments.
 
-Here are some ideas to get you started:
+My passion is solving complex technical challenges, integrating modern technologies into established enterprise systems, and delivering software that is reliable, maintainable, and built to last.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in bridging the gap between **traditional enterprise platforms** and **modern software development** through automation, integration, and continuous improvement.
 
-## Hi there 👋
+---
 
-I'm a Senior Software Developer & Technical Lead with 14+ years of experience building, modernizing, and operating mission-critical software and data platforms.
-My work focuses on reliable systems, SQL, data flows, performance optimization, automation, CI/CD, incident management, and clean, maintainable software.
-I use this profile to document practical projects, learning notes, and experiments around software engineering, data engineering, automation, and cloud technologies.
+## 👨‍💻 About Me
+
+* 💼 14+ years of experience in enterprise software development
+* 🏦 Specialized in IBM z/OS mainframe environments
+* 🧩 Strong background in system integration and release management
+* 🚀 Technical Lead with experience coordinating cross-functional teams
+* 🐍 Passionate about Python and backend development
+* 🌱 Continuously expanding my skills in modern software engineering
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** PL/I • Python • SQL (DB2) • JCL • HTML • CSS
+
+**Frameworks:** Flask
+
+**Databases:** IBM DB2 • SQLite • Relational Databases
+
+**Messaging & Integration:** IBM MQ • Apache Kafka • IMS • REST APIs
+
+**DevOps & Tools:** Git • GitLab • Bitbucket • Jenkins • Jira • ChangeMan • ISPW
+
+**Practices:** System Integration • Release Management • Root Cause Analysis • Agile (Scrum, Kanban)
+
+---
+
+## 🚀 Current Project
+
+I'm currently developing **Patricia's Password Manager/Vault**, a personal project designed to strengthen my expertise in modern software development by building a secure, real-world application from the ground up.
+
+The project focuses on secure password and sensitive data management while applying software engineering best practices, including clean architecture, security principles, REST APIs, frontend/backend separation, and cross-platform design.
+
+**Technology Stack:** Python • Flask • SQLite • JavaScript • Vite • Bootstrap • REST APIs • Git • GitHub
+
+Through this project, I'm expanding my knowledge in backend and frontend development, secure application design, modern development workflows, and software architecture while applying the same engineering principles I've used throughout my enterprise software career.
 
 
+---
 
-My skills and background in software engineering is:
+## 📚 Currently Learning
 
-- Software Engineering
-- Data Engineering
-- Platform Engineering
-- SQL
-- DB2
-- Automation
-- CI/CD
-- Git
-- Clean Code
-- Performance Optimization
-- Incident Management
-- Reliable Systems
-- Cloud Technologies
-- Technical Leadership
+As part of my current project and personal development, I'm actively expanding my knowledge in:
 
------------------------------------------------
+* Advanced Python
+* Flask ecosystem
+* SQLite
+* Docker
+* CI/CD
+* Automated Testing
+* Software Architecture & Design Patterns
+* Clean Code Principles
+* REST API Design
 
-TECHNISCHE SKILLS
--	Programmiersprachen: PL/1, JCL, SQL (DB2), Python 
--	Mainframe: z/OS, DB2, IMS, MQ, FileAid
--	DevOps & Tools: Git, GitLab, Jenkins, Bitbucket, ChangeMan, ISPW 
--	Methods: Scrum, Kanban, Agile Development 
--	Data & Integration: REST APIs, Relational Databases, Pandas
+---
+
+## 📫 Connect with Me
+
+Feel free to explore my repositories or connect if you're interested in enterprise software, Python, system integration, or software modernization.
